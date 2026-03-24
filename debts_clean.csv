@@ -1,0 +1,3 @@
+id,name,balance,apr,min_payment,credit_limit,type,loan_type,monthly_interest
+1,Chase Sapphire,4200.0,22.99,120.0,10000.0,Credit Card,,80.46
+1,Car Loan,9400.0,6.49,280.0,,Loan,auto,50.84

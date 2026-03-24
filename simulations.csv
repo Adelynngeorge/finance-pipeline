@@ -1,0 +1,8 @@
+strategy,extra_monthly,lump_sum,months_to_free,total_interest,freedom_date
+avalanche,0,0,56,3698.32,2030-10
+snowball,0,0,56,3698.32,2030-10
+avalanche,200,0,28,1522.48,2028-07
+avalanche,400,0,21,1059.9,2027-12
+avalanche,600,0,17,840.48,2027-08
+avalanche,800,0,13,678.19,2027-04
+avalanche,200,1000,26,1162.08,2028-05
